@@ -92,3 +92,34 @@ Organization: TuseGlobTech
 ## 10. Project Status
 
 Ongoing technical documentation and infrastructure learning project.
+
+---
+
+## 11. Infrastructure Architecture
+
+The Ubuntu01 server is deployed on Amazon Web Services (AWS) using the EC2 compute service.
+
+### Architecture Components
+
+1. Internet — External access to hosted services.
+2. DNS — Domain name resolution.
+3. AWS EC2 — Virtual machine hosting the server.
+4. Ubuntu Server 24.04 LTS — Operating system.
+5. Apache — Web server.
+6. PHP — Application runtime.
+7. MariaDB — Relational database management system.
+
+### Technology Stack
+
+- Cloud Platform: Amazon Web Services
+- Compute: Amazon EC2
+- Operating System: Ubuntu Server
+- Web Server: Apache
+- Backend: PHP
+- Database: MariaDB
+
+### Architecture Overview
+
+Internet → DNS → AWS EC2 → Ubuntu Server → Apache → PHP → MariaDB
+
+This architecture represents the main components of the Ubuntu01 web hosting environment.
