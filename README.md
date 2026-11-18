@@ -41,6 +41,19 @@ This repository contains technical documentation, configuration examples, and au
 Currently under development. Documentation, scripts, and practical examples will be added progressively.
 
 ## Author
+---
+
+## License and Copyright
+
+Copyright © 2026 Samuel Tusevo.
+
+Maintained by **TuseGlobTech**.
+
+This project is licensed under the **Apache License 2.0**.
+
+See the [LICENSE](LICENSE) file for details.
+
+See the [COPYRIGHT](COPYRIGHT.md) file for copyright information.
 
 **Samuel Tusevo**
 
